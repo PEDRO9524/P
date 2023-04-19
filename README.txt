@@ -169,5 +169,5 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE03.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIgu1dLS9rLpPkEhJNRSP_R77-rOni8mp1A&usqp=CAU" tvg-name="AYM Sports"  group-title="Deportes",D
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" tvg-name="fox3"  group-title="depor",D
+#EXTINF:-1, tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" tvg-name="Universal Estudio"  group-title="Cine",C
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
