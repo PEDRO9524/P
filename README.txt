@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" tvg-name="ToonCast"  group-title="INFANTIL",N
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
 
@@ -168,6 +172,3 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE03.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIgu1dLS9rLpPkEhJNRSP_R77-rOni8mp1A&usqp=CAU" tvg-name="AYM Sports"  group-title="Deportes",D
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
