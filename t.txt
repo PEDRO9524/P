@@ -234,8 +234,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 
 https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 
- 
-
 #EXTINF:-1  group-title="C", SPACE
 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?39#&f=.m3u8
@@ -244,19 +242,13 @@ https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?39#&f=.m3u8
 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?41#&f=.m3u8
 
-
-
 #EXTINF:-1  group-title="C", G PLUS
 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?73#&f=.m3u8
 
- 
-
 #EXTINF:-1  group-title="C", G EDGE
 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?74#&f=.m3u8
-
- 
 
 #EXTINF:-1  group-title="C", G PREMIER
 
@@ -265,8 +257,6 @@ https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?75#&f=.m3u8
 #EXTINF:-1  group-title="C", UNIVERSAL TV
 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?79#&f=.m3u8
-
- 
 
 #EXTINF:-1  group-title="C", STUDIO UNIVERSAL
 
