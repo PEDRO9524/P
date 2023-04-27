@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="C",ForoTv
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 group-title="C", Multimedios https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="C",Adn40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="C",SonyChannel
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?77#&f=.m3u8
+
+#EXTINF:-1 group-title="C",Golden
+http://ott.cdn.iutpcdn.com/bpk-tv/tp13123/clear/index.m3u8
+
+#EXTINF:-1 group-title="C", DPeliculaplus 
+http://ott.cdn.iutpcdn.com/bpk-tv/tp13121/clear/index.m3u8
+
+#EXTINF:-1 group-title="C",ComedyCe
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+
+#EXTINF:-1 group-title="C",AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1 group-title="C",Amc
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1 group-title="C", Lasestrellas 
+http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123682/clear/tp123682-audio_158221_spa=158000-video=4637200.m3u8
+
+#EXTINF:-1 group-title="C", Azteca1
+http://ottbk.cdn.iutpcdn.com/bpk-tv/tp132191/clear/tp132191-audio_150621_spa=150400-video=1044000.m3u8
+
+
+
 #EXTINF:-1 group-title="C" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png",_UNIVERSAL CINEMA
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -110,6 +144,141 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+
+#EXTINF:-1 group-title="C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",_HBO
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 group-title="C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",_DE PELICULAS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+
+
+#EXTINF:-1 group-title="C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png",_TLNOVELAS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+
+#EXTINF:-1 group-title="C" tvg-logo="https://logo.iptveditor.com/bit.png",_BITM
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="C",Fox Sports Mx
+
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="C",Fox Sports 2 Mx
+
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="C",Fox Sports 3 Mx
+
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="C",Fox Sports Premium
+
+http://166.0.208.24:3473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 group-title="C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png",_DISCOVERY TURBO
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+
+#EXTINF:-1 group-title="C" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png",_DISCOVERY
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 group-title="C" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/telemundo.webp",_TELEMUNDO INTERNACIONAL
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+
+ 
+
+#EXTINF:-1  group-title="C", SPACE
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?39#&f=.m3u8
+
+#EXTINF:-1  group-title="C", TNT
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?41#&f=.m3u8
+
+
+
+#EXTINF:-1  group-title="C", G PLUS
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?73#&f=.m3u8
+
+ 
+
+#EXTINF:-1  group-title="C", G EDGE
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?74#&f=.m3u8
+
+ 
+
+#EXTINF:-1  group-title="C", G PREMIER
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?75#&f=.m3u8
+
+#EXTINF:-1  group-title="C", UNIVERSAL TV
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?79#&f=.m3u8
+
+ 
+
+#EXTINF:-1  group-title="C", STUDIO UNIVERSAL
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?80#&f=.m3u8
+
+#EXTINF:-1  group-title="C", UNIVERSAL PREMIER
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?371#&f=.m3u8
+
+#EXTINF:-1  group-title="C", CINE CANAL
+
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?44#&f=.m3u8
 
 
 
