@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="C",Canal5
+http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/tp123412-audio_158221_spa=158000-video=1044000.m3u8
+
 #EXTINF:-1 group-title="C",Hbo2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
